@@ -1,0 +1,7 @@
+Compile command:
+       g++ main.cpp node.cpp
+
+Usage: 
+       command -<e | d> <input file> <output file>
+       -e: encode
+       -d: decode
